@@ -19,8 +19,8 @@ PYTHONPATH=. pytest -vv
 
 - All players starts with $300.00.
 - The properties and rent prices are draw from a normal distribution. The mean and sigma values impact directly on the simulations results.
-- The dice number are draw from a uniform distribution.
-- The seed are fixed at 42.
+- The dice number is draw from a uniform distribution.
+- The seed is fixed at 42.
 
 ## If you want to play
 
