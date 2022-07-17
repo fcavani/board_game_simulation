@@ -1,6 +1,7 @@
 from typing import NewType
 import random
 
+
 BehaviorType = NewType('BehaviorType', object)
 
 
